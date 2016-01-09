@@ -1,4 +1,6 @@
 # DiffView for Sublime Text 3
+
+[![Join the chat at https://gitter.im/CJTozer/SublimeDiffView](https://badges.gitter.im/CJTozer/SublimeDiffView.svg)](https://gitter.im/CJTozer/SublimeDiffView?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *Git and SVN Diff Viewer for Sublime Text 3*  
 [![Build Status](https://travis-ci.org/CJTozer/SublimeDiffView.svg)](https://travis-ci.org/CJTozer/SublimeDiffView)
 
